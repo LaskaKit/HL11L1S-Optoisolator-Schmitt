@@ -1,0 +1,1 @@
+# LaskaKit HL11L1S 1-kanálový Schmitt trigger optoizolátor
